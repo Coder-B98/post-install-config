@@ -40,10 +40,10 @@ http://localhost/osTicket/scp/login.php
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rswPKKV.png"/>
 </p>
 <p>
-
+Click on the Admin Panel and then click on agents and roles to get to this page and then click add new role. Create the Supreme Admin role and give it all permissions.
 </p>
 <br />
 
