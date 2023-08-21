@@ -34,7 +34,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/IASfKnE.png"/>
 </p>
 <p>
-Go to the help desk login page with the link below and begin configuring you Osticket system by configuring the various functions as described in the Post-Install Configuration Objectives in the above list.
+Go to the help desk login page with the link below and begin configuring you Osticket system by configuring the various functions as described in the Post-Install Configuration Objectives in the above list.<br \>
+http://localhost/osTicket/scp/login.php
 </p>
 <br />
 
