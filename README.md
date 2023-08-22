@@ -25,7 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Teams
 - Configure Agents (workers)
 - Configure Users (customers)
-- Configure SLA
+- Configure SLA 
 - Configure Help Topics
 
 <h2>Configuration Steps</h2>
@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 Go to the help desk login page with the link below and begin configuring you Osticket system by configuring the various functions as described in the Post-Install Configuration Objectives in the above list.<br \>
-http://localhost/osTicket/scp/login.php
+<a href="http://localhost/osTicket/scp/login.php"> Ticket Login Page </a>
 </p>
 <br />
 
