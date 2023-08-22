@@ -91,7 +91,7 @@ SEV-C (Business Hours, 8 hours)<br \>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TE9bhRO.png"/>
 </p>
 <p>
 Go back to manage and then configure these 4 help topic:<br \>
